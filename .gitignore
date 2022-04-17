@@ -1,1 +1,4 @@
 *.env
+.ipynb_checkpoints/finalized_code-checkpoint.ipynb
+.ipynb_checkpoints/visual_cupcake-checkpoint.ipynb
+.ipynb_checkpoints/analytics-crypto&yield-checkpoint.ipynb
