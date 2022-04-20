@@ -2,7 +2,14 @@
 
 This goal of this project is to present any Investor with a Toolkit, that can quickly analyze any given stock.
 
-Charts such as Trading Volumes, Historical Price with Moving Average, Rolling Annualized Returns, Cumulative Return, Volatility, Sharpe Ratio, and Correlations with other sectors are all presented to the investor to analyze and formulate a decision.
+The following charts are presented to the investor to analyze and formulate a decision:
+
+- Trading Volumes 
+- Historical Price with Moving Average 
+- Rolling Annualized Returns 
+- Cumulative Return
+- Volatility and Sharpe Ratio 
+- Correlations with Benchmark, 10 Year Treasury Yield, and Bitcoin
 
 These charts are outputted to a dashboard using panels.
 
