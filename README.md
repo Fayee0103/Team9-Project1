@@ -13,7 +13,7 @@ The following charts are presented to the investor to analyze and formulate a de
 
 These charts are outputted to a dashboard using panels.
 
-A benchmark can be provided as to compare and constrast the stock with and see its correlation with one another.
+A benchmark can be provided to compare and constrast the given stock with and see its correlation with it.
 Other correlations can be made to things like the 10 yr Treasury Yield, or cryptocurrencies such as Bitcoin.
 
 The primary data source used for this project is Yahoo finance via the pandas_datareader library.
